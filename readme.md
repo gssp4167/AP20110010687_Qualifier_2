@@ -14,7 +14,7 @@
 -For request url paste this url:- http://localhost:3000/bfhl
 -Go to body tab and select raw, and type as JSON. Add text in editor like below
 
--Eg:-
+Eg:-
 <code>
 {
   "data": [1, 2, "A", "B", 3]
